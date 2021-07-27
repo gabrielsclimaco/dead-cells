@@ -1,5 +1,8 @@
 {
   "gear": {
-    "melee": []
+    "melee": [{
+      "id": 1,
+      "name": 'Rusty sword'
+    }]
   }
 }
