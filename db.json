@@ -2,7 +2,7 @@
   "gear": {
     "melee": [{
       "id": 1,
-      "name": 'Rusty sword'
+      "name": "Rusty sword"
     }]
   }
 }
