@@ -30,7 +30,7 @@
     {
       "id": 2,
       "type": "select",
-      "description": 'Qual tatuagem o Dedé tem na virilha?',
+      "description": "Qual tatuagem o Dedé tem na virilha?",
       "answer_key": "c",
       "options": {
         "a": "Um coração",
